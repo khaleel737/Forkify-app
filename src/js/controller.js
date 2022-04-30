@@ -13,7 +13,7 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime'
 
-
+// djslajdlksajldkjsalkdjalkjdlsjakdjlakjdas
 // Parcel Hot Module
 
 // if(module.hot) {
